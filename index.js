@@ -13,6 +13,14 @@ function takeANumber(katzDeliLine, newPerson) {
   return currentPosition;
 }
 
+var ticketNumber = 0; i++;
+function ticketWheel(ticketNumber) {
+
+
+  return `welcome your ticket number is ${ticketNumber};
+}
+
+
 function nowServing(katzDeliLine) {
  
  if (katzDeliLine.length === 0) {
